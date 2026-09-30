@@ -1,4 +1,1 @@
-const amount =new Number(500)
-// console.log(amount)
-// console.log(amount.toExponential())
-// console.log(amount.toFixed(3)) 
+console.log(Math.floor(Math.random()* (max -min +1))+min)
