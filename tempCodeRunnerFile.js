@@ -1,1 +1,2 @@
-console.log(Math.floor(Math.random()* (max -min +1))+min)
+const my_arr=new Array(1,2,5,8,10)
+console.log(my_arr)
